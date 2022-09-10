@@ -28,7 +28,9 @@ This repository contains the Vivado and Vitis project required to get started wi
 ## How to Build 
 
 * Install the Software tools 
-* Clone this repository
+* Clone this repository, run Viviado  and open the Vivado project ebaz4205_clock_gen_Vivado.xpr
+* Synthesize, implement, create the bitstream and export the hardware.
+* Run Vitis IDE.
 * [Use the hardware definition to build an bootable SD Card with petalinux](./docs/how-to-build.md)
 
 
