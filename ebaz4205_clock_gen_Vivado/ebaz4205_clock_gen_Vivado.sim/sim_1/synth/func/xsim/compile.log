@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/guido/AppData/Roaming/Xilinx/Vivado/ebaz4205_my3/ebaz4205_my3.sim/sim_1/synth/func/xsim/design_1_wrapper_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cdc_sync
+INFO: [VRFC 10-311] analyzing module counter26
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-311] analyzing module design_1_counter26_0_0
+INFO: [VRFC 10-311] analyzing module design_1_proc_sys_reset_0_0
+INFO: [VRFC 10-311] analyzing module design_1_processing_system7_0_0
+INFO: [VRFC 10-311] analyzing module design_1_wrapper
+INFO: [VRFC 10-311] analyzing module lpf
+INFO: [VRFC 10-311] analyzing module proc_sys_reset
+INFO: [VRFC 10-311] analyzing module processing_system7_v5_5_processing_system7
+INFO: [VRFC 10-311] analyzing module sequence_psr
+INFO: [VRFC 10-311] analyzing module upcnt_n
+INFO: [VRFC 10-311] analyzing module glbl

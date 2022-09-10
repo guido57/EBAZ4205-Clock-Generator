@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Sep  9 21:59:33 2022
+# Process ID: 14704
+# Current directory: C:/Users/guido/AppData/Roaming/Xilinx/Vivado/ebaz4205_clock_gen/ebaz4205_clock_gen.runs/synth_1
+# Command line: vivado.exe -log design_1_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_wrapper.tcl
+# Log file: C:/Users/guido/AppData/Roaming/Xilinx/Vivado/ebaz4205_clock_gen/ebaz4205_clock_gen.runs/synth_1/design_1_wrapper.vds
+# Journal file: C:/Users/guido/AppData/Roaming/Xilinx/Vivado/ebaz4205_clock_gen/ebaz4205_clock_gen.runs/synth_1\vivado.jou
+# Running On: LAPTOP-61L0HCPI, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17002 MB
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace

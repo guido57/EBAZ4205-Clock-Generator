@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../ebaz4205_clock_gen.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../ebaz4205_clock_gen.gen/sources_1/bd/design_1/ipshared/5765/hdl" --include "../../../../ebaz4205_clock_gen.gen/sources_1/bd/design_1/ipshared/4e49" --include "C:/Xilinx/Vivado/2022.1/data/xilinx_vip/include" \
+"../../../../ebaz4205_clock_gen.srcs/sources_1/new/counter26.v" \
+"../../../../ebaz4205_clock_gen.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"../../../../ebaz4205_clock_gen.ip_user_files/bd/design_1/ip/design_1_counter26_0_0/sim/design_1_counter26_0_0.v" \
+"../../../../ebaz4205_clock_gen.ip_user_files/bd/design_1/ip/design_1_clk_wiz_0_0/design_1_clk_wiz_0_0_mmcm_pll_drp.v" \
+"../../../../ebaz4205_clock_gen.ip_user_files/bd/design_1/ip/design_1_clk_wiz_0_0/design_1_clk_wiz_0_0_clk_wiz.v" \
+"../../../../ebaz4205_clock_gen.ip_user_files/bd/design_1/ip/design_1_clk_wiz_0_0/design_1_clk_wiz_0_0.v" \
+"../../../../ebaz4205_clock_gen.ip_user_files/bd/design_1/sim/design_1.v" \
+"../../../../ebaz4205_clock_gen.ip_user_files/bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../../ebaz4205_clock_gen.gen/sources_1/bd/design_1/hdl/design_1_wrapper.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
