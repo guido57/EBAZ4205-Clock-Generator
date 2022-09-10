@@ -1,4 +1,4 @@
-# EBAZ4205
+# EBAZ4205 Clock Generator
 
 ## Description
 
